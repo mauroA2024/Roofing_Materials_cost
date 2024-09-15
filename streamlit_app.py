@@ -3,7 +3,7 @@ import streamlit as st
 st.title("🎈 My new app")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)def calculate_roofing_material_cost():
+calculate_roofing_material_cost():
     try:
         # Input the total roof area in square feet
         roof_area = float(input("Enter the total roof area in square feet: "))
