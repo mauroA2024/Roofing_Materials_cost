@@ -1,5 +1,4 @@
 
-calculate_roofing_material_cost():
     try:
         # Input the total roof area in square feet
         roof_area = float(input("Enter the total roof area in square feet: "))
